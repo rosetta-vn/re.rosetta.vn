@@ -37,8 +37,7 @@
   <body>
     <img src="Energy_Intensity_Graph.jpg" />
   </body>
-</html>
-</richcontent>
+</html></richcontent>
 <edge COLOR="#111111" WIDTH="thin"/>
 </node>
 <node COLOR="#111111" CREATED="1513171736939" ID="ID_724412773" MODIFIED="1513174443524" TEXT="2014, EI c&#x1ee7;a Vi&#x1ec7;t Nam ch&#x1ec9; v&#xe0;o kho&#x1ea3;ng 137 ktoe/billion USD">
@@ -100,6 +99,7 @@
 <edge COLOR="#990000" WIDTH="1"/>
 <node COLOR="#111111" CREATED="1513171729465" ID="ID_1872489617" MODIFIED="1513174443533" TEXT="gi&#x1ea3;m energy resistance (Nguy&#xea;n)">
 <edge COLOR="#111111" WIDTH="thin"/>
+<node CREATED="1513177295312" ID="ID_1003671370" MODIFIED="1513177331239" TEXT="t&#x1ee9;c gi&#x1ea3;m t&#x1ef7; l&#x1ec7; [t&#x103;ng n&#x103;ng l&#x1b0;&#x1ee3;ng/t&#x103;ng GDP] b&#x1eb1;ng c&#xe1;ch x&#xe2;y d&#x1ef1;ng learning rate ri&#xea;ng cho VN:energy efficiency (residential, offices, transport, industry etc),&#xa;health efficiency (environment, work hours etc)"/>
 </node>
 <node COLOR="#111111" CREATED="1513171729466" ID="ID_1912452613" MODIFIED="1513174443533" TEXT="thuy&#x1ebf;t ph&#x1ee5;c nh&#xe0; n&#x1b0;&#x1edb;c h&#x1ed7; tr&#x1ee3; &#x111;&#x1ec3; cho local ph&#xe1;t tri&#x1ec3;n RE target c&#x1ee7;a h&#x1ecd; (H&#x1eb1;ng)">
 <edge COLOR="#111111" WIDTH="thin"/>
