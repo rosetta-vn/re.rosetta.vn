@@ -29,6 +29,7 @@
 </node>
 <node COLOR="#990000" CREATED="1513171736939" ID="ID_1848123775" MODIFIED="1513174443491" TEXT="energy intensity">
 <edge COLOR="#990000" WIDTH="1"/>
+<node CREATED="1513177685063" ID="ID_1401520943" MODIFIED="1513177713421" TEXT="= measurement of the energy efficiency of a nation&apos;s economy.&#xa;It is calculated as units of energy per unit of GDP: ktoe/billion USD."/>
 <node COLOR="#111111" CREATED="1513171736939" ID="ID_500488860" MODIFIED="1513174443517">
 <richcontent TYPE="NODE"><html>
   <head>
