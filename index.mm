@@ -67,6 +67,15 @@
 </node>
 <node COLOR="#990000" CREATED="1513171720453" ID="ID_521117125" MODIFIED="1513174443527" TEXT="X&#xe1;c &#x111;&#x1ecb;nh c&#xe1;c &#x1b0;u &#x111;i&#x1ec3;m c&#x1ee7;a n&#x103;ng l&#x1b0;&#x1ee3;ng t&#xe1;i t&#x1ea1;o">
 <edge COLOR="#990000" WIDTH="1"/>
+<node COLOR="#111111" CREATED="1513171720455" ID="ID_1180291242" MODIFIED="1513176793494" TEXT="D&#x1ef1; b&#xe1;o su&#x1ea5;t &#x111;&#x1ea7;u t&#x1b0; cho RE s&#x1ebd; gi&#x1ea3;m d&#x1ea7;n v&#xe0; chi ph&#xed; mua nhi&#xea;n li&#x1ec7;u cho than t&#x103;ng d&#x1ea7;n?">
+<edge COLOR="#111111" WIDTH="thin"/>
+</node>
+</node>
+<node COLOR="#990000" CREATED="1513171720455" ID="ID_1401414922" MODIFIED="1513174443529" TEXT="L&#xfd; do n&#xe0;o m&#xe0; nh&#xe0; &#x111;&#x1ea7;u t&#x1b0; n&#xea;n &#x111;&#x1ea7;u t&#x1b0; v&#xe0;o RE &#x1edf; VN?">
+<edge COLOR="#990000" WIDTH="1"/>
+</node>
+<node COLOR="#990000" CREATED="1513171720455" ID="ID_52191143" MODIFIED="1513176732295" TEXT="L&#xfd; do n&#xe0;o m&#xe0; nh&#xe0; n&#x1b0;&#x1edb;c VN n&#xea;n &#x1b0;u ti&#xea;n RE?">
+<edge COLOR="#990000" WIDTH="1"/>
 <node COLOR="#111111" CREATED="1513171720454" ID="ID_1587462516" MODIFIED="1513174443527" TEXT="1) &#x111;a d&#x1ea1;ng ngu&#x1ed3;n cung (energy mix)">
 <edge COLOR="#111111" WIDTH="thin"/>
 </node>
@@ -82,15 +91,6 @@
 <node COLOR="#111111" CREATED="1513171720454" ID="ID_1856376555" MODIFIED="1513174443529" TEXT="5) RE t&#x1ea1;o nhi&#x1ec1;u jobs">
 <edge COLOR="#111111" WIDTH="thin"/>
 </node>
-<node COLOR="#111111" CREATED="1513171720455" ID="ID_1180291242" MODIFIED="1513174443529" TEXT="6) D&#x1ef1; b&#xe1;o su&#x1ea5;t &#x111;&#x1ea7;u t&#x1b0; cho RE s&#x1ebd; gi&#x1ea3;m d&#x1ea7;n v&#xe0; chi ph&#xed; mua nhi&#xea;n li&#x1ec7;u cho than t&#x103;ng d&#x1ea7;n?">
-<edge COLOR="#111111" WIDTH="thin"/>
-</node>
-</node>
-<node COLOR="#990000" CREATED="1513171720455" ID="ID_1401414922" MODIFIED="1513174443529" TEXT="L&#xfd; do n&#xe0;o m&#xe0; nh&#xe0; &#x111;&#x1ea7;u t&#x1b0; n&#xea;n &#x111;&#x1ea7;u t&#x1b0; v&#xe0;o RE &#x1edf; VN?">
-<edge COLOR="#990000" WIDTH="1"/>
-</node>
-<node COLOR="#990000" CREATED="1513171720455" ID="ID_52191143" MODIFIED="1513174443529" TEXT="L&#xfd; do n&#xe0;o m&#xe0; nh&#xe0; n&#x1b0;&#x1edb;c VN n&#xea;n &#x1b0;u ti&#xea;n RE?">
-<edge COLOR="#990000" WIDTH="1"/>
 </node>
 </node>
 <node COLOR="#ff0000" CREATED="1513171729465" ID="ID_644017121" MODIFIED="1513174486026" POSITION="right" TEXT="C&#xe1;ch ti&#x1ebf;p c&#x1ead;n">
